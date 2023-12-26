@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9a9a1c57-5f55-43a3-a576-ed6e97e92468" name="Changes" comment="MODULARIZANDO O PROJETO">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eurekaserver/target/eurekaserver-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/eurekaserver/target/eurekaserver-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eurekaserver/target/eurekaserver-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/eurekaserver/target/eurekaserver-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/log-file.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/log-file.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msavaliadorcredito/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/msavaliadorcredito/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscartoes/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mscartoes/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msclientes/src/main/resources/application-production.yml" beforeDir="false" afterPath="$PROJECT_DIR$/msclientes/src/main/resources/application-production.yml" afterDir="false" />
-    </list>
+    <list default="true" id="9a9a1c57-5f55-43a3-a576-ed6e97e92468" name="Changes" comment="atualizacao" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -199,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1703614169784</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="atualizacao">
+      <created>1703619409468</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1703619409468</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -221,6 +219,7 @@
     <MESSAGE value="Modularizando o Projeto" />
     <MESSAGE value="Create README.md" />
     <MESSAGE value="MODULARIZANDO O PROJETO" />
-    <option name="LAST_COMMIT_MESSAGE" value="MODULARIZANDO O PROJETO" />
+    <MESSAGE value="atualizacao" />
+    <option name="LAST_COMMIT_MESSAGE" value="atualizacao" />
   </component>
 </project>
