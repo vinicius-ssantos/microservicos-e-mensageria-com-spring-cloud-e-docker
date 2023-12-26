@@ -35,7 +35,7 @@ docker stop cursoms-keycloak
 docker container rm cursoms-keycloak
 docker build --tag cursoms-keycloak . 
 docker run --name cursoms-keycloak -p 8081:8080 -e KEYCLOAK_ADMIN=admin -e KEYCLOAK_ADMIN_PASSWORD=admin --network cursoms-network quay.io/keycloak/keycloak:18.0.0 start-dev
-
+## ADICIONAR http://cursoms-keycloak:8080 a variavel Frontend URL se estiver usando container
 docker container stop cursoms-gateway
 docker container rm cursoms-gateway
 docker build --tag cursoms-gateway . 
